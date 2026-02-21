@@ -558,7 +558,6 @@ c:\Users\carla\Documents\EPAM\Repositorios\Fundamentals_Final_Task _BDD\Login\sr
 c:\Users\carla\Documents\EPAM\Repositorios\Fundamentals_Final_Task _BDD\Login\src\obj\Debug\net8.0\Login.AssemblyInfoInputs.cache
 c:\Users\carla\Documents\EPAM\Repositorios\Fundamentals_Final_Task _BDD\Login\src\obj\Debug\net8.0\Login.AssemblyInfo.cs
 c:\Users\carla\Documents\EPAM\Repositorios\Fundamentals_Final_Task _BDD\Login\src\obj\Debug\net8.0\Login.csproj.CoreCompileInputs.cache
-c:\Users\carla\Documents\EPAM\Repositorios\Fundamentals_Final_Task _BDD\Login\src\obj\Debug\net8.0\Login.sourcelink.json
 c:\Users\carla\Documents\EPAM\Repositorios\Fundamentals_Final_Task _BDD\Login\src\obj\Debug\net8.0\Login.csproj.Up2Date
 c:\Users\carla\Documents\EPAM\Repositorios\Fundamentals_Final_Task _BDD\Login\src\obj\Debug\net8.0\Login.dll
 c:\Users\carla\Documents\EPAM\Repositorios\Fundamentals_Final_Task _BDD\Login\src\obj\Debug\net8.0\refint\Login.dll
