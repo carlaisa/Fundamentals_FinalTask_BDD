@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documentos\\Testing\\EPAM\\Repositories\\Fundamentals_Level\\Final_Task\\Login\\src\\Login.csproj": {}
+    "c:\\Users\\carla\\Documents\\EPAM\\Repositorios\\Fundamentals_Final_Task_BDD\\Login\\src\\Login.csproj": {}
   },
   "projects": {
-    "D:\\Documentos\\Testing\\EPAM\\Repositories\\Fundamentals_Level\\Final_Task\\Login\\src\\Login.csproj": {
+    "c:\\Users\\carla\\Documents\\EPAM\\Repositorios\\Fundamentals_Final_Task_BDD\\Login\\src\\Login.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documentos\\Testing\\EPAM\\Repositories\\Fundamentals_Level\\Final_Task\\Login\\src\\Login.csproj",
+        "projectUniqueName": "c:\\Users\\carla\\Documents\\EPAM\\Repositorios\\Fundamentals_Final_Task_BDD\\Login\\src\\Login.csproj",
         "projectName": "Login",
-        "projectPath": "D:\\Documentos\\Testing\\EPAM\\Repositories\\Fundamentals_Level\\Final_Task\\Login\\src\\Login.csproj",
-        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "D:\\Documentos\\Testing\\EPAM\\Repositories\\Fundamentals_Level\\Final_Task\\Login\\src\\obj\\",
+        "projectPath": "c:\\Users\\carla\\Documents\\EPAM\\Repositorios\\Fundamentals_Final_Task_BDD\\Login\\src\\Login.csproj",
+        "packagesPath": "C:\\Users\\carla\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\carla\\Documents\\EPAM\\Repositorios\\Fundamentals_Final_Task_BDD\\Login\\src\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\carla\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -37,7 +37,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -66,6 +67,18 @@
             "Serilog.Sinks.Console": {
               "target": "Package",
               "version": "[5.0.1, )"
+            },
+            "SpecFlow": {
+              "target": "Package",
+              "version": "[3.*, )"
+            },
+            "SpecFlow.NUnit": {
+              "target": "Package",
+              "version": "[3.*, )"
+            },
+            "SpecFlow.Tools.MsBuild.Generation": {
+              "target": "Package",
+              "version": "[3.*, )"
             }
           },
           "imports": [
@@ -79,12 +92,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.21, 8.0.21]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[8.0.21, 8.0.21]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.21, 8.0.21]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[8.0.21, 8.0.21]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.415/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

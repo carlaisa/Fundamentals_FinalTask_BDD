@@ -31,8 +31,8 @@ public class LoginTests
     [Test]
     public void Login_Form_With_Empty_Credentials()
     {
-        var loginPage = new Login(Driver);
-        loginPage.Open();
+    var loginPage = new PageObject.Pages.Login(Driver);
+    loginPage.Open();
 
         loginPage.EnterUsername("any_username");
         loginPage.EnterPassword("password123");
@@ -47,8 +47,8 @@ public class LoginTests
     [Test]
     public void Login_Form_With_Credentials_By_Passing_Username()
     {
-        var loginPage = new Login(Driver);
-        loginPage.Open();
+    var loginPage = new PageObject.Pages.Login(Driver);
+    loginPage.Open();
 
         loginPage.EnterUsername("any_username");
         loginPage.EnterPassword("secret_sauce");
@@ -62,8 +62,8 @@ public class LoginTests
     [Test]
     public void Login_Form_With_Credentials_By_Passing_Username_And_Password()
     {
-        var loginPage = new Login(Driver);
-        loginPage.Open();
+    var loginPage = new PageObject.Pages.Login(Driver);
+    loginPage.Open();
 
         loginPage.EnterUsername("standard_user");
         loginPage.EnterPassword("secret_sauce");

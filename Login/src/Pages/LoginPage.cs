@@ -6,16 +6,16 @@ using PageObject.Utils;
 
 namespace PageObject.Pages;
 
-public class Login
+public class LoginPage
 {
     private static string Url { get; } = "https://www.saucedemo.com";
 
     private readonly IWebDriver driver;
 
-    public Login(IWebDriver driver) => 
+    public LoginPage(IWebDriver driver) => 
         this.driver = driver ?? throw new ArgumentException(nameof(driver));
 
-    public Login Open()
+    public LoginPage Open()
     {
         driver.Navigate().GoToUrl(Url);
         return this;
