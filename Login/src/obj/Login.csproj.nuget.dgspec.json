@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\carla\\Documents\\EPAM\\Repositorios\\Fundamentals_Final_Task_BDD\\Login\\src\\Login.csproj": {}
+    "C:\\Users\\carla\\Documents\\EPAM\\Repositorios\\Fundamentals_Final_Task_BDD\\Login\\src\\Login.csproj": {}
   },
   "projects": {
-    "c:\\Users\\carla\\Documents\\EPAM\\Repositorios\\Fundamentals_Final_Task_BDD\\Login\\src\\Login.csproj": {
+    "C:\\Users\\carla\\Documents\\EPAM\\Repositorios\\Fundamentals_Final_Task_BDD\\Login\\src\\Login.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\carla\\Documents\\EPAM\\Repositorios\\Fundamentals_Final_Task_BDD\\Login\\src\\Login.csproj",
+        "projectUniqueName": "C:\\Users\\carla\\Documents\\EPAM\\Repositorios\\Fundamentals_Final_Task_BDD\\Login\\src\\Login.csproj",
         "projectName": "Login",
-        "projectPath": "c:\\Users\\carla\\Documents\\EPAM\\Repositorios\\Fundamentals_Final_Task_BDD\\Login\\src\\Login.csproj",
+        "projectPath": "C:\\Users\\carla\\Documents\\EPAM\\Repositorios\\Fundamentals_Final_Task_BDD\\Login\\src\\Login.csproj",
         "packagesPath": "C:\\Users\\carla\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\carla\\Documents\\EPAM\\Repositorios\\Fundamentals_Final_Task_BDD\\Login\\src\\obj\\",
+        "outputPath": "C:\\Users\\carla\\Documents\\EPAM\\Repositorios\\Fundamentals_Final_Task_BDD\\Login\\src\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\carla\\AppData\\Roaming\\NuGet\\NuGet.Config"

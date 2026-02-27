@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qZcFwZaepfo=",
+  "dgSpecHash": "yWnUrpaCDsI=",
   "success": true,
-  "projectFilePath": "c:\\Users\\carla\\Documents\\EPAM\\Repositorios\\Fundamentals_Final_Task_BDD\\Login\\src\\Login.csproj",
+  "projectFilePath": "C:\\Users\\carla\\Documents\\EPAM\\Repositorios\\Fundamentals_Final_Task_BDD\\Login\\src\\Login.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\carla\\.nuget\\packages\\bodi\\1.5.0\\bodi.1.5.0.nupkg.sha512",
     "C:\\Users\\carla\\.nuget\\packages\\gherkin\\19.0.3\\gherkin.19.0.3.nupkg.sha512",
